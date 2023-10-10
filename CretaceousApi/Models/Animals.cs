@@ -1,3 +1,6 @@
+using System.Net.Http.Json;
+using System.Threading.Tasks;
+
 namespace CretaceousApi.Models
 {
   public class Animal
